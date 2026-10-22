@@ -1,6 +1,6 @@
-# prpty
+# PrPty
 
-`prpty` is a Python toolkit for preparing, simulating, and analyzing ptychography data. It covers the steps around a reconstruction: loading and cleaning diffraction data, building probes and scan patterns, propagating wavefields, and post-processing reconstructed objects (for example, phase-ramp removal).
+`PrPty` is a Python toolkit for preparing, simulating, and analyzing ptychography data. It covers the steps around a reconstruction: loading and cleaning diffraction data, building probes and scan patterns, propagating wavefields, and post-processing reconstructed objects (for example, phase-ramp removal).
 
 It is designed to work alongside reconstruction packages such as [tike](https://github.com/AdvancedPhotonSource/tike).
 
