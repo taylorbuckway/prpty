@@ -88,7 +88,7 @@ Keep data paths out of the code you commit. Pass them in at run time, or read th
 If you use this code in published work, please cite:
 
 ```
-T. Buckway, prpty (2026). https://github.com/taylorbuckway/prpty
+T.J. Buckway, prpty (2026). https://github.com/taylorbuckway/prpty
 ```
 
 ## License
@@ -117,4 +117,4 @@ SOFTWARE.
 
 ## Author
 
-Taylor Buckway, Department of Physics and Astronomy, Brigham Young University
+Taylor J. Buckway, Department of Physics and Astronomy, Brigham Young University
